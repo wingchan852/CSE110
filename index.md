@@ -20,4 +20,4 @@ Some Courses I'm taking right now
 Both of them were done in C++. The first one is a famous card game and the second one is a UI where people can create their own logo by changing its color, size, front etc.. Both of them can be found in my [github](https://github.com/wingchan852). I have some/ little experiences in web develop like the basic CSS, HTML, JavaScript and React stuff. 
 
 
- - [ ] Add delight to the experience when all tasks are complete :tada:
+ - [x] Ccomplete :tada:
